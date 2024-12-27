@@ -1,5 +1,25 @@
 ## Hi there 👋
 
+{
+  "name": "Yasaman Fani",
+  "located_in": {
+    "Iran": ["Yazd", "Fars"]
+  },
+  "skills": {
+    "NodeJs": true,
+    "ExpressJs": true,
+    "DataBase": ["MongoDB", "PostgreSQL", "Redis"],
+    "RestAPI": true,
+    "Template Engine": true,
+    "Socket.io": true
+  },
+  "currently_learning": "TypeScript",
+  "fields_of_interests": "I'm into anything related to programming."
+}
+
+  
+  
+
 <!--
 **yasaman-f/yasaman-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
