@@ -1,21 +1,25 @@
 ## Hi there 👋
 
-{
-  "name": "Yasaman Fani",
-  "located_in": {
-    "Iran": ["Yazd", "Fars"]
-  },
-  "skills": {
-    "NodeJs": true,
-    "ExpressJs": true,
-    "DataBase": ["MongoDB", "PostgreSQL", "Redis"],
-    "RestAPI": true,
-    "Template Engine": true,
-    "Socket.io": true
-  },
-  "currently_learning": "TypeScript",
-  "fields_of_interests": "I'm into anything related to programming."
-}
+### About Me
+- **Name:** Yasaman Fani
+- **Location:** Iran (Yazd, Fars)
+
+### Skills
+- **NodeJs:** ✔️
+- **ExpressJs:** ✔️
+- **Database:** 
+  - MongoDB
+  - PostgreSQL
+  - Redis
+- **RestAPI:** ✔️
+- **Template Engine:** ✔️
+- **Socket.io:** ✔️
+
+### Currently Learning
+- TypeScript
+
+### Fields of Interests
+- I'm into anything related to programming.
 
   
   
