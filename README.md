@@ -3,32 +3,34 @@
 ## 🚀 About Me
 - **Name:** Yasaman Fani  
 - **Location:** Iran (Yazd, Fars)  
-- **Interests:** I'm into anything related to programming.  
 
 ---
 
 ## 🛠️ Skills
-- **Languages & Frameworks:**  
-  ![Node.js](https://cdn.simpleicons.org/nodedotjs/339933)  
-  ![Express.js](https://cdn.simpleicons.org/express/000000)  
-  ![TypeScript](https://cdn.simpleicons.org/typescript/3178C6)  
-  ![NestJS](https://cdn.simpleicons.org/nestjs/E0234E)  
-
-- **Databases:**  
-  ![MongoDB](https://cdn.simpleicons.org/mongodb/47A248)  
-  ![PostgreSQL](https://cdn.simpleicons.org/postgresql/4169E1)  
-  ![Redis](https://cdn.simpleicons.org/redis/DC382D)  
-
-- **Other Skills:**  
-  ![REST API](https://img.shields.io/badge/REST-API-blue)  
-  ![Template Engine](https://img.shields.io/badge/Template-Engine-orange)  
-  ![Socket.io](https://cdn.simpleicons.org/socketdotio/010101)  
+- Node.js ✔️  
+- Express.js ✔️  
+- TypeScript ✔️  
+- NestJS ✔️  
+- Databases:  
+  - MongoDB  
+  - PostgreSQL  
+  - Redis  
+- REST API ✔️  
+- Template Engine ✔️  
+- Socket.io ✔️  
 
 ---
 
 ## 📚 Currently Learning
-- **DevOps & Tools:** Docker, CI/CD (Jenkins)  
-- **Advanced Backend Architectures**  
+- Docker  
+- CI/CD (Jenkins)  
+- Advanced Backend Architectures  
+
+---
+
+## 🎯 Fields of Interests
+- I'm into anything related to programming.  
+
 
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
